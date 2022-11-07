@@ -1,0 +1,30 @@
+[
+  {
+    "id":1,
+    "name":"Lavash🌯",
+    "imgUrl":"https://firebasestorage.googleapis.com/v0/b/images-5c23a.appspot.com/o/lavash.jpg?alt=media&token=de681af3-bb38-433b-bf1e-b810757e9b2b",
+    "desc":"Lavash Donar",
+    "price":"25 000"
+  },
+  {
+    "id":2,
+    "name":"Clab Sandwich🥪",
+    "imgUrl":"https://firebasestorage.googleapis.com/v0/b/images-5c23a.appspot.com/o/club.jpg?alt=media&token=3560b9fe-2ed5-427f-8ee2-a6176972c468",
+    "desc":"Clab Sandwich",
+    "price":"30 000"
+  },
+  {
+    "id":3,
+    "name":"Hamburger🍔",
+    "imgUrl":"https://firebasestorage.googleapis.com/v0/b/images-5c23a.appspot.com/o/hamburger.png?alt=media&token=38c05302-eb00-49e2-a252-613b514415ed",
+    "desc":"Big Hamburger",
+    "price":"28 000"
+  },
+  {
+    "id":4,
+    "name":"Sandwich🌮",
+    "imgUrl":"https://firebasestorage.googleapis.com/v0/b/images-5c23a.appspot.com/o/sandwich.png?alt=media&token=38f7bef4-fc1d-4a3a-9d20-173881602064",
+    "desc":"Lavash Donar",
+    "price":"33 000"
+  }
+]
